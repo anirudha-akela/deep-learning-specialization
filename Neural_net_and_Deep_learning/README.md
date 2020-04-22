@@ -1,11 +1,10 @@
-Logistic Regression with a Neural Network mindset
+# [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?)
 
-Welcome to the first (required) programming exercise of the deep learning specialization. In this notebook you will build your first image recognition algorithm. You will build a cat classifier that recognizes cats with 70% accuracy!
+##### [Anirudha Akela](https://github.com/anirudha-akela)
 
-As you keep learning new techniques you will increase it to 80+ % accuracy on cat vs. non-cat datasets. By completing this assignment you will:
-
-- Work with logistic regression in a way that builds intuition relevant to neural networks.
-
-- Learn how to minimize the cost function.
-
-- Understand how derivatives of the cost are used to update parameters.
+type | name | 
+--:|:----|
+[project] | Logistic Regression as a Neural Network | 
+[project] | Planar data classification with one hidden layer | 
+[project]  | Building your Deep Neural Network - Step by Step | 
+[project]  | Deep Neural Network Application: Image Classification |
